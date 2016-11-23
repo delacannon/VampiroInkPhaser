@@ -12,5 +12,5 @@ El canvas generado con Phaser funciona como contenedor para la historia. De esta
 
 ```npm run dev```
 
-El juego se ejecutará en el servidor en la página [localhost:3000](http://localhost:3000) de tu navegador.
+El juego se ejecutará en el servidor en la página [localhost:3000](http://localhost:3000) de su navegador.
 
