@@ -23,7 +23,7 @@
     "webpack": "^1.13.2"
   },
   "dependencies": {
-    "inkjs": "^1.4.2",
+    "inkjs": "^1.11.0",
     "phaser": "^2.6.2"
   }
 }
