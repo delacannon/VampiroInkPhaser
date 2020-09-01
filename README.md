@@ -6,12 +6,10 @@ El canvas generado con Phaser funciona como contenedor para la historia. De esta
 
 ### 1. Instalar dependencias:
 
-`npm install`
 `yarn`
 
 ### 2. Ejecutar el servidor :
 
-`npm run dev`
 `yarn dev`
 
 El juego se ejecutará en el servidor en la página [localhost:3000](http://localhost:3000) de su navegador.
